@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naman</h1>
+<h1 align="center">Hi 👋, I'm Algo_</h1>
 
 <h3 align="center">Full-Stack Developer | IoT Enthusiast | Competitive Programmer</h3>
 
